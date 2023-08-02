@@ -1,0 +1,8 @@
+Before running your script Angelee...
+
+You need to make the script file executable. 
+To do this, use the `chmod` command followed by the `+x` option and the name of your script file. 
+For example, if your script file is named `myscript.sh`, you would type `chmod +x myscript.sh` and press Enter.
+
+Finally, you can execute the script by typing `./<filename>.sh` and pressing Enter. 
+For example, if your script file is named `myscript.sh`, you would type `./myscript.sh` and press Enter.
